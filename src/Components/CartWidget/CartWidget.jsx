@@ -7,6 +7,7 @@ const CartWidget = () => {
         <div className="container">
             <button>
                 <BsCart3 /><strong>0</strong>
+                
             </button>
         </div>
     )
